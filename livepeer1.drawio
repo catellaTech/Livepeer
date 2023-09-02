@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-09-02T22:37:25.522Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="RcPX9K-Pw5sHNP0bYwUY" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-02T22:38:52.434Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="ldT-brIYqGpuIUd1XLKP" version="21.7.2" type="github">
   <diagram name="Página-1" id="yWGLrWYSczdTiaF9Wtc3">
     <mxGraphModel dx="3474" dy="1447" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="3GVqCLC3AOpg88e1xVN--2" value="&lt;font style=&quot;font-size: 38px;&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;u&gt;&lt;font style=&quot;font-size: 38px;&quot;&gt;LIbrary:&amp;nbsp;&lt;/font&gt;&lt;/u&gt;&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 38px;&quot;&gt;&lt;i&gt;&lt;b&gt;&lt;u&gt;SortedArrays&lt;/u&gt;&lt;/b&gt;&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;" parent="1" vertex="1">
-          <mxGeometry x="170.75" y="140" width="486" height="80" as="geometry" />
+          <mxGeometry x="197" y="150" width="486" height="80" as="geometry" />
         </mxCell>
         <mxCell id="M4fMpMwqK3yh5M_hbPdH-149" value="&lt;b&gt;&lt;font color=&quot;#000000&quot; style=&quot;font-size: 25px;&quot;&gt;findLowerBound&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=#005700;fillColor=#008a00;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;sketch=1;curveFitting=1;jiggle=2;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="-680" y="370" width="300" height="90" as="geometry" />
